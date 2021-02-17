@@ -2,7 +2,7 @@
 -- von Nex4rius
 -- https://github.com/Nex4rius/Nex4rius-Programme/
 
--- label -> angezeigter Name
+-- label -> Display Name
 
 return {
 ["Helium3"]                            = "Helium-3",
